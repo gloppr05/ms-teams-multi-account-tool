@@ -1,6 +1,10 @@
 
 # Summary
 This is a simple PowerShell script that helps you to sign in to multiple Microsoft Teams accounts on your desktop and start it automatically when you log in. It creates additional MS Teams apps beside your default one that you can use to log in with your other accounts. You can add many MS Teams apps, list and remove them.
+doc/ms-teams-tray.JPG
+
+![screenshot](doc/ms-teams-tray.JPG)
+
 # Usage
 - Copy the `ms-teams-multi-account.ps1` to your local machine.
 - Open a **PowerShell window in administrator mode**.
