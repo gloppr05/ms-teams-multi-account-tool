@@ -8,7 +8,7 @@ This is a simple PowerShell script that helps you to sign in to multiple Microso
 - Copy the `ms-teams-multi-account.ps1` to your local machine.
 - Open a **PowerShell window in administrator mode**.
 - Change your current directory in PowerShell where you downloaded the `ms-teams-multi-account.ps1` file.
-- Type the following command to be able to run the script: `Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser`
+- Type the following command to be able to run the script: `Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser` and type 'yes'.
 - Run the script with the name of your new Teams app. Example: 
 	`./ms-teams-multi-account.ps1 -c personal -a`
 # Examples
