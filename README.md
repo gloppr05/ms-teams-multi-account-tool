@@ -14,9 +14,9 @@ This is a simple PowerShell script that helps you to sign in to multiple Microso
 	
 # Parameters
 **-c <name> [-a]**: create a Teams app  
-	Examples:  
-	- create an app for your personal account: `./ms-teams-multi-account.ps1 -c personal`  
-	- create an app for your work account and start it automatically when loggin in to Windows: `./ms-teams-multi-account.ps1 -c work -a`  
+    Examples:  
+    - create an app for your personal account: `./ms-teams-multi-account.ps1 -c personal`  
+    - create an app for your work account and start it automatically when loggin in to Windows: `./ms-teams-multi-account.ps1 -c work -a`  
 **-a**: auto start app when loggin in to Windows  
 **-r <name>**: remove app  
 **-l**: list created app  
